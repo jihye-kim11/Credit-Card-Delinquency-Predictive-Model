@@ -1,9 +1,13 @@
 # Credit Card Delinquency Predictive Model
-
-![image](https://user-images.githubusercontent.com/59490892/118280372-1cf2ba00-b507-11eb-9998-170527c876ab.png)
-![image](https://user-images.githubusercontent.com/59490892/118280393-22500480-b507-11eb-8d33-2a4aa3182441.png)
 ![image](https://user-images.githubusercontent.com/59490892/118280282-04829f80-b507-11eb-82eb-cfc146271c75.png)
-![image](https://user-images.githubusercontent.com/59490892/118280453-30058a00-b507-11eb-81ed-998b02d1ccef.png)
 ![image](https://user-images.githubusercontent.com/59490892/118280300-0b111700-b507-11eb-99df-70f4cada8012.png)
 
+
+![image](https://user-images.githubusercontent.com/59490892/118280607-588d8400-b507-11eb-883e-5eae3f24459f.png)
+![image](https://user-images.githubusercontent.com/59490892/118280625-5cb9a180-b507-11eb-8fc7-a61b2e713db9.png)
+
+![image](https://user-images.githubusercontent.com/59490892/118280656-6216ec00-b507-11eb-99b7-ba902bee30f1.png)
+![image](https://user-images.githubusercontent.com/59490892/118280675-66430980-b507-11eb-8276-c7666398ca3d.png)
+![image](https://user-images.githubusercontent.com/59490892/118280697-6ba05400-b507-11eb-8754-09e3fbe4b2ab.png)
+![image](https://user-images.githubusercontent.com/59490892/118280716-6e9b4480-b507-11eb-9fc6-eb8d64c6c142.png)
 
