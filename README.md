@@ -1,1 +1,1 @@
-# Credit-Card-Delinquency-Predictive-Model-
+# Credit Card Delinquency Predictive Model
