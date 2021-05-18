@@ -24,7 +24,7 @@
 
    -시각화에는 seaborn,matplot 사용
    
-####**2.Feature Engineering**
+#### **2.Feature Engineering**
 
 1. 데이터 분석 결과 바탕으로 이상치 처리(Handling Outliers)
 
@@ -36,13 +36,13 @@
 
 
 
-####**3.모델 및 성능 측정 기준 선택**
+#### **3.모델 및 성능 측정 기준 선택**
 
 1. target이 0,1,2인 다중분류모델
 2. 특정 값에 해당하는 데이터가 많이 분포되있는 imbalanced data이므로  F1-Score를 이용하여 성능 측정
 3. RandomForest Classifier와 Light GBM 2가지 모델을 이용하여 트레이닝
 
-####**4.모델 하이퍼파라미터 튜닝**
+#### **4.모델 하이퍼파라미터 튜닝**
 
 1. RandomizedSearchCV와 GridSearchCV 이용하여 최적 모델 탐색.
 
@@ -54,7 +54,7 @@
 
    
 
-####***최종 선정 모델*** 
+#### ***최종 선정 모델*** 
 
 ```python
 encoder = TargetEncoder(smoothing= 1.0)
@@ -75,7 +75,7 @@ model = RandomForestClassifier(max_depth = 20,
                            n_jobs = -1)
 ```
 
-####**5.모델 해석 및 데이터 시각화**
+#### **5.모델 해석 및 데이터 시각화**
 
 -PDP,SHAP,Permutation Importances 를 이용한 모델 해석 및 시각화
 
@@ -84,7 +84,7 @@ model = RandomForestClassifier(max_depth = 20,
 ![image](https://user-images.githubusercontent.com/59490892/118280855-8d014000-b507-11eb-808f-79bc309358eb.png)
 ![image](https://user-images.githubusercontent.com/59490892/118280892-97233e80-b507-11eb-8ed5-7cc588c068cc.png)
 
-###**모델 해석(일부)**
+### **모델 해석(일부)**
 ![image](https://user-images.githubusercontent.com/59490892/118280656-6216ec00-b507-11eb-99b7-ba902bee30f1.png)
 ![image](https://user-images.githubusercontent.com/59490892/118280675-66430980-b507-11eb-8276-c7666398ca3d.png)
 
