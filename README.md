@@ -79,6 +79,8 @@ model = RandomForestClassifier(max_depth = 20,
 
 -PDP,SHAP,Permutation Importances 를 이용한 모델 해석 및 시각화
 
+### **Target**
+![image](https://user-images.githubusercontent.com/59490892/119256812-6d4fd300-bbfd-11eb-8bdb-71e3344292f0.png)
 
 ### **EDA & Feature Engineering 과정(일부)**
 ![image](https://user-images.githubusercontent.com/59490892/118280855-8d014000-b507-11eb-808f-79bc309358eb.png)
